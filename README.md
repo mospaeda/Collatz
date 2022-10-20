@@ -10,7 +10,8 @@ Conjecture is that, starting from any positive integer, the serie will end by th
 
 Still unproven.
 
-## References:
+# References:
 
 "On the 3x + 1 problem" -  www.ericr.nl/wondrous/index.html
 
+"La conjecture de Syracuse" - https://www.cristal.univ-lille.fr/~jdelahay/pls/053.pdf

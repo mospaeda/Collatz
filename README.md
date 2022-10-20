@@ -9,3 +9,8 @@ Consider the following operation on an arbitrary positive integer:
 Conjecture is that, starting from any positive integer, the serie will end by the integer 1.
 
 Still unproven.
+
+##References:
+
+www.ericr.nl/wondrous/index.html
+

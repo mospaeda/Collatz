@@ -12,5 +12,5 @@ Still unproven.
 
 ## References:
 
-www.ericr.nl/wondrous/index.html
+"On the 3x + 1 problem" -  www.ericr.nl/wondrous/index.html
 

@@ -10,7 +10,7 @@ Conjecture is that, starting from any positive integer, the serie will end by th
 
 Still unproven.
 
-##References:
+## References:
 
 www.ericr.nl/wondrous/index.html
 

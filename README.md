@@ -15,3 +15,5 @@ Still unproven.
 "On the 3x + 1 problem" -  www.ericr.nl/wondrous/index.html
 
 "La conjecture de Syracuse" - https://www.cristal.univ-lille.fr/~jdelahay/pls/053.pdf
+
+"Path records" - https://pcbarina.fit.vutbr.cz/path-records.htm
